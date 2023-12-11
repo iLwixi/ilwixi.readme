@@ -5,10 +5,10 @@ An Employee Who Has Finished Coding
 <p> An Employee Who Has Finished Coding ❤ </p>
   
 <h1> :grey_question: About </h1>
-  <p> :label: My name is Yusuf </p>
-  <p> :nerd: I am back-end developer </p>
-  <p> :flag_white: I live in Turkey </p>
-  <p> :desktop: Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
+  <p>  My name is Yusuf </p>
+  <p>  I am back-end developer </p>
+  <p>  I live in Turkey </p>
+  <p>  Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
@@ -19,3 +19,8 @@ An Employee Who Has Finished Coding
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=githubadresiniz&theme=onedark](https://media.discordapp.net/attachments/1129474717833760798/1182335424585277450/a_2e0a09f3d17921d776289fa7ce3a3820.gif?width=103&height=103)https://media.discordapp.net/attachments/1129474717833760798/1182335424585277450/a_2e0a09f3d17921d776289fa7ce3a3820.gif?width=103&height=103" />
+
+
+https://discord.gg/gjMwz2EcNe
